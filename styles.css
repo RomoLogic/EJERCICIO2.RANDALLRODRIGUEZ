@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+}
+.container{
+    font-family: Verdana;
+    font-size: 50px;
+}
+.verde{
+    color: #2ecc71;
+    text-decoration: underline solid #2ecc71 3px;
+
+}
+.naranja{
+    color: #e67e22;
+
+}
+.underline{
+    color: black !important;
+    text-decoration: underline solid black 3px;
+    text-decoration: overline solid black 3px;
+
+}
+.underline:hover{
+    color: red;
+}
+.large{
+    font-size:larger;
+    font-weight: bolder;
+}
+.azul{
+    color: #2980b9;
+}
+.rojo{
+    color: #c0392b;
+
+}
